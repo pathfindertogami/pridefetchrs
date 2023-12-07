@@ -1,8 +1,7 @@
 # pridefetchrs
 System fetch script inspired by [pridefetch](https://github.com/SpyHoodle/pridefetch) and [hyfetch](https://github.com/hykilpikonna/hyfetch) but with more flags(every flag i saw on [pronouns.page](https://en.pronouns.page/terminology))
 # requirements
-- cargo
-- viu
+TBA
 # installation
 TBA
 # usage
