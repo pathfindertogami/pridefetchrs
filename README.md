@@ -1,21 +1,26 @@
 # pridefetchrs
 System fetch script inspired by [pridefetch](https://github.com/SpyHoodle/pridefetch) and but with more flags(every flag i could get from [pronouns.page](https://en.pronouns.page/terminology))
-# requirements
-- cargo
 # installation
 ```
 git clone https://github.com/pathfindertogami/pridefetchrs.git
 cd pridefetchrs
 cargo install --path .
 ```
+
 # usage
-if you run `pridefetchrs` for the first time, config menu will open
+when you run `pridefetchrs` for the first time, you will be prompted to select default flag
 
 `pridefetchrs -f <flag>` to display exact flag
 
 `pridefetchrs -l` to list all available flags
 
-`pridefetchrs -c` to open config menu
+`pridefetchrs -c` to reselect default flag
+
+# adding custom flags
+
+comments in src/flags.rs explain how you can add your own flags
+
+also, feel free to commit them if you want
 
 # why this exist
   
