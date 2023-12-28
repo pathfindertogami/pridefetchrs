@@ -1,5 +1,5 @@
 # pridefetchrs
-System fetch script inspired by [pridefetch](https://github.com/SpyHoodle/pridefetch) and but with more flags
+System fetch script inspired by [pridefetch](https://github.com/SpyHoodle/pridefetch) and but written in rust because yes
 # installation
 ```
 git clone https://github.com/pathfindertogami/pridefetchrs.git
