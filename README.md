@@ -1,12 +1,11 @@
 # pridefetchrs
-System fetch script inspired by [pridefetch](https://github.com/SpyHoodle/pridefetch) and but with more flags(every flag i could get from [pronouns.page](https://en.pronouns.page/terminology))
+System fetch script inspired by [pridefetch](https://github.com/SpyHoodle/pridefetch) and but with more flags
 # installation
 ```
 git clone https://github.com/pathfindertogami/pridefetchrs.git
 cd pridefetchrs
 cargo install --path .
 ```
-
 # usage
 when you run `pridefetchrs` for the first time, you will be prompted to select default flag
 
