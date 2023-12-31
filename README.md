@@ -17,7 +17,7 @@ when you run `pridefetchrs` for the first time, you will be prompted to select d
 
 # adding custom flags
 
-comments in src/flags.rs explain how you can add your own flags
+comments in src/main.rs explain how you can add your own flags
 
 also, feel free to commit them if you want
 
