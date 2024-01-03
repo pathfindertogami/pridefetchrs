@@ -7,13 +7,13 @@ cd pridefetchrs
 cargo install --path .
 ```
 # usage
-when you run `pridefetchrs` for the first time, you will be prompted to select default flag
+~~when you run `pridefetchrs` for the first time, you will be prompted to select default flag~~ i fucking give up
 
 `pridefetchrs -f <flag>` to display exact flag
 
 ~~`pridefetchrs -l` to list all available flags~~ i fucking give up
 
-`pridefetchrs -c` to reselect default flag
+~~`pridefetchrs -c` to reselect default flag~~ i fucking give up
 
 # adding custom flags
 
