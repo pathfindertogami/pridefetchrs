@@ -11,7 +11,7 @@ when you run `pridefetchrs` for the first time, you will be prompted to select d
 
 `pridefetchrs -f <flag>` to display exact flag
 
-`pridefetchrs -l` to list all available flags
+~~`pridefetchrs -l` to list all available flags~~ i fucking give up
 
 `pridefetchrs -c` to reselect default flag
 
