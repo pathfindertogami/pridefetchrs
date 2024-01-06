@@ -7,13 +7,9 @@ cd pridefetchrs
 cargo install --path .
 ```
 # usage
-~~when you run `pridefetchrs` for the first time, you will be prompted to select default flag~~ i fucking give up
-
 `pridefetchrs -f <flag>` to display exact flag
 
-~~`pridefetchrs -l` to list all available flags~~ i fucking give up
-
-~~`pridefetchrs -c` to reselect default flag~~ i fucking give up
+`pridefetchrs -l` to list all available flags
 
 # adding custom flags
 
@@ -21,7 +17,7 @@ comments in src/main.rs explain how you can add your own flags
 
 also, feel free to commit them if you want
 
-# why this exist
+# why this exists
   
 https://github.com/pathfindertogami/pridefetchrs/assets/109064753/2b1c67ca-793e-4a65-84ed-96c3a7bcb125
 
